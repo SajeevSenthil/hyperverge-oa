@@ -1,0 +1,11 @@
+# Install the CUDA build of torch/torchvision matching your driver first, e.g.:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+torch>=2.3
+torchvision>=0.18
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib
+requests
+ipykernel

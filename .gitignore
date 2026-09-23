@@ -1,0 +1,6 @@
+HV-AI-2025/
+outputs/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pt
